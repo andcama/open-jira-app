@@ -49,8 +49,9 @@ http://localhost:3000/api/seed
 ## More information.
 
 ```
-https://www.mongodb.com/
-https://www.docker.com/
+Click [here](https://www.mongodb.com/) to go to my Quora profile. 
+Click [here](https://www.docker.com/) to go to my Quora profile.
+
 
 ```
 
