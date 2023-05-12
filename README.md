@@ -1,9 +1,12 @@
 # Next.js OpenJira App
 
 ## Prerequisites.
+```
 mongoose: "^6.2.0"
 Docker
 node": "17.0.14"
+
+```
 
 ## Add this file in root directory.
 
