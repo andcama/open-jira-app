@@ -38,7 +38,7 @@ Rename the __.env.template__ file to __.env__.
 MONGO_URL=mongodb://localhost:27017/entriesdb
 ```
 
-* Rebuild node modules and lift Next
+* Rebuild node modules and start Next
 ```
 yarn install
 yarn dev
